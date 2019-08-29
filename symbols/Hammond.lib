@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 1593JGY
+#
+DEF 1593JGY B 0 40 Y Y 1 F N
+F0 "B" 0 0 100 H V C CNN
+F1 "1593JGY" 0 0 100 H V C CNN
+F2 "Hammond:1593JGY" 0 -800 100 H I C CNN
+F3 "http://www.hammondmfg.com/pdf/1593J.pdf" 0 -950 100 H I C CNN
+F4 "HM867-ND" 0 -650 100 H I C CNN "DigiKey_PartNumber"
+F5 "Hammond Manufacturing" 0 -500 100 H I C CNN "Manufacturer"
+F6 "1593JGY" 0 -350 100 H I C CNN "Manufacturer_PartNumber"
+DRAW
+S -400 350 400 -400 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
