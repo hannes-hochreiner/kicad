@@ -3,7 +3,7 @@ Custom KiCAD components
 
 ## Organization
 The different artifacts for the components are organized in four folders:
-  * fooprints
+  * footprints
   * models
   * sheets
   * symbols
