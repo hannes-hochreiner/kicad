@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATECC508A-MAHCZ-S
+D Authentication Chip 8-UDFN (2x3)
+$ENDCMP
+#
 $CMP DSC6011HE2A-032.0000
 D 32MHz XO (Standard) CMOS Oscillator 1.8V ~ 3.3V Enable/Disable 4-SMD, No Lead
 $ENDCMP
