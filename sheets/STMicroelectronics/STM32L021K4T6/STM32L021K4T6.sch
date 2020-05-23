@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:STM32L021K4T6-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -292,7 +291,7 @@ VCC
 Text HLabel 8450 2350 3    50   Input ~ 0
 GND
 $Comp
-L STMicroelectronics:STM32L021K4T6 STM?
+L HH_STMicroelectronics:STM32L021K4T6 STM?
 U 1 1 5D6357D1
 P 5700 4250
 F 0 "STM?" H 6200 3550 60  0000 L CNN
@@ -306,7 +305,7 @@ F 6 "STM32L021K4T6" H 5700 2550 50  0001 C CNN "Manufacturer_PartNumber"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ARM:CORTEX-DEBUG CD?
+L HH_ARM:CORTEX-DEBUG CD?
 U 1 1 5D635A07
 P 9300 1900
 F 0 "CD?" H 9300 2487 60  0000 C CNN
