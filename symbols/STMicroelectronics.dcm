@@ -1,3 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP STM32G070CBT6
+F https://www.st.com/resource/en/datasheet/stm32g070cb.pdf
+$ENDCMP
+#
+$CMP STM32G070KBT6
+F https://www.st.com/resource/en/datasheet/stm32g070cb.pdf
+$ENDCMP
+#
 #End Doc Library
