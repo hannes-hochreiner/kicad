@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BL651
+D RX TXRX MODULE BT TRC ANT SMD
+F https://connectivity-staging.s3.us-east-2.amazonaws.com/2019-02/CS-DS-BL651%20%20v1_1.pdf
+$ENDCMP
+#
+$CMP Ferrite_Bead
+D FERRITE BEAD 600 OHM 0805 1LN
+K L ferrite bead inductor filter
+F https://media.digikey.com/pdf/Data%20Sheets/Laird%20Technologies/EMI_Filtering_and_RF_Inductors.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# USB_micro_ab
+#
+DEF USB_micro_ab U 0 40 Y Y 1 F N
+F0 "U" 350 -350 60 H V C CNN
+F1 "USB_micro_ab" 100 0 60 H V C CNN
+F2 "HH_Molex:MOLEX_USB_MICRO_0475890001" 250 -450 60 H I C CNN
+F3 "" 350 -350 60 H I C CNN
+F4 "WM17143CT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F5 "Molex" 0 0 50 H I C CNN "Manufacturer"
+F6 "0475890001" 0 0 50 H I C CNN "Manufacturer Part Number"
+F7 "CONN RCPT MICRO USB AB 5P SMD RA" 0 0 50 H I C CNN "Description"
+DRAW
+S -400 300 450 -300 0 1 0 N
+X VBUS 1 -600 200 200 R 50 50 1 1 w
+X DM 2 -600 100 200 R 50 50 1 1 B
+X DP 3 -600 0 200 R 50 50 1 1 B
+X ID 4 -600 -100 200 R 50 50 1 1 B
+X GND 5 -600 -200 200 R 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library

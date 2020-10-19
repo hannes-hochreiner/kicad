@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Sensor-Connector
+D CONN RCPT 10POS 0.05 GOLD SMD
+F https://cdn.harwin.com/pdfs/C029XX_M50_and_M52_Series_Connectors.pdf
+$ENDCMP
+#
 #End Doc Library
