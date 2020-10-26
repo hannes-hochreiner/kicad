@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DMP2008UFG-7
+D P-Channel 20V 14A (Ta), 54A (Tc) 2.4W (Ta), 41W (Tc) Surface Mount PowerDI3333-8
+F https://www.diodes.com/assets/Datasheets/DMP2008UFG.pdf
+$ENDCMP
+#
 $CMP PI4ULS3V501TAEX
 F https://www.diodes.com/assets/Datasheets/PI4ULS3V501.pdf
 $ENDCMP

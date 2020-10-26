@@ -32,7 +32,7 @@ ENDDEF
 DEF logo L 0 40 Y Y 1 F N
 F0 "L" 0 -50 50 H V C CNN
 F1 "logo" 0 50 50 H V C CNN
-F2 "Hochreiner:logo" -100 -150 50 H I C CNN
+F2 "HH_Hochreiner:logo" -100 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 ENDDRAW
