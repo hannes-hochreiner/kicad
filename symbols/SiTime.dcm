@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIT1602BI-21-XXE-8.192000G
+D MEMS OSC XO 8.1920MHZ H/LV-CMOS
+F https://www.sitime.com/datasheet/SiT1602
+$ENDCMP
+#
+#End Doc Library

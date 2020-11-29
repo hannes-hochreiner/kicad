@@ -9,4 +9,9 @@ $CMP PI4ULS3V501TAEX
 F https://www.diodes.com/assets/Datasheets/PI4ULS3V501.pdf
 $ENDCMP
 #
+$CMP ZXCT1110W5-7
+D IC CURR MONITOR HIGH SIDE SOT2
+F https://www.diodes.com/assets/Datasheets/ZXCT1107_10.pdf
+$ENDCMP
+#
 #End Doc Library
