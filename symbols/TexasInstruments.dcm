@@ -9,9 +9,4 @@ $CMP TLV61225DCKR
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlv61225
 $ENDCMP
 #
-$CMP ZXCT1110W5-7
-D IC CURR MONITOR HIGH SIDE SOT2
-F https://www.diodes.com/assets/Datasheets/ZXCT1107_10.pdf
-$ENDCMP
-#
 #End Doc Library
