@@ -1,6 +1,17 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# Logo_small
+#
+DEF Logo_small L 0 40 Y Y 1 F N
+F0 "L" 0 0 50 H V C CNN
+F1 "Logo_small" 0 0 50 H V C CNN
+F2 "HH_Hochreiner:logo_small" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
 # Sensor-Connector
 #
 DEF Sensor-Connector SC 0 40 Y Y 1 F N

@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SHT4x
+D Humidity Temperature Sensor 0 ~ 100% RH Digital ±1.8% RH  Surface Mount
+F https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT4x_Ver1_Oct2020.pdf
+$ENDCMP
+#
 $CMP SHTC3
 F https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/HT_DS_SHTC3_D1.pdf
 $ENDCMP
