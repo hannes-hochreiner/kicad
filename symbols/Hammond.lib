@@ -1,6 +1,22 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 1551J
+#
+DEF 1551J B 0 40 Y Y 1 F N
+F0 "B" 0 0 50 H V C CNN
+F1 "1551J" 0 0 50 H V C CNN
+F2 "HH_Hammond:1551J" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "HM1133-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F5 "Hammond Manufacturing" 0 0 50 H I C CNN "Manufacturer"
+F6 "1551JGY" 0 0 50 H I C CNN "Manufacturer Part Number"
+F7 "BOX ABS GRAY 2.36\"L X 1.38\"W" 0 0 50 H I C CNN "Description"
+DRAW
+S -100 100 100 -100 0 1 0 N
+ENDDRAW
+ENDDEF
+#
 # 1593JGY
 #
 DEF 1593JGY B 0 40 Y Y 1 F N
