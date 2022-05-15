@@ -6,7 +6,7 @@
     (property "Value" "DMP2008UFG-7" (id 1) (at 0 -8.89 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "HH_DiodesIncorporated:DMP2008UFG-7" (id 2) (at 0 -13.97 0)
+    (property "Footprint" "h0h4_DiodesIncorporated:DMP2008UFG-7" (id 2) (at 0 -13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMP2008UFG.pdf" (id 3) (at 0 0 0)

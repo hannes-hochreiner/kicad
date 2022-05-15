@@ -322,7 +322,7 @@
     (property "Value" "TPS61098x" (id 1) (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "HH_TexasInstruments:TPS61098x" (id 2) (at 0 0 0)
+    (property "Footprint" "h0h4_TexasInstruments:TPS61098x" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps610985" (id 3) (at 0 0 0)

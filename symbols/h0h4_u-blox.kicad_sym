@@ -6,7 +6,7 @@
     (property "Value" "BMD-330" (id 1) (at 0 0 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "u-blox:BMD-330" (id 2) (at 15.24 -16.51 0)
+    (property "Footprint" "h0h4_u-blox:BMD-330" (id 2) (at 15.24 -16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.de/datasheet/2/1025/BMD_330_DataSheet__UBX_19033352_-1729523.pdf" (id 3) (at 15.24 -16.51 0)

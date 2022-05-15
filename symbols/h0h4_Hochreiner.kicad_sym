@@ -249,7 +249,7 @@
     (property "Value" "swd_connector_keyed" (id 1) (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "HH_Hochreiner:SWD_BD050-06-A-0-0500-L-D" (id 2) (at 0 0 0)
+    (property "Footprint" "h0h4_Hochreiner:SWD_BD050-06-A-0-0500-L-D" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.gct.co/files/drawings/BD050.pdf" (id 3) (at 0 0 0)
