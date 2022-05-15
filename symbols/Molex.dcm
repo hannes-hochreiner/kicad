@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP USB_micro_ab
-D CONN RCPT MICRO USB AB 5P SMD RA
-F https://www.molex.com/pdm_docs/sd/475890001_sd.pdf
-$ENDCMP
-#
-#End Doc Library
