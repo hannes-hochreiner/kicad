@@ -13,7 +13,7 @@ Contains the component footprints.
 Components from one manufacturer are combines into one library.
 Hence, the structure of the folder is:
 ```
-  footprints/<manufacturer>.pretty/<component part number>.kicad_mod
+  footprints/h0h4_<manufacturer>.pretty/<component part number>.kicad_mod
 ```
 
 ### Models
@@ -22,7 +22,7 @@ For me, it was easiest to use FreeCAD to draw the components.
 For the import into KiCAD, I exported the drawings to the step format.
 The structure of the folder is:
 ```
-  models/<manufacturer>/<component part number>.{fcstd,step}
+  models/h0h4_<manufacturer>/<component part number>.{fcstd,step}
 ```
 ### Sheets
 This folder contains sheets that can be imported into new designs.
