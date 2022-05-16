@@ -6,7 +6,7 @@
     (property "Value" "009296002202906" (id 1) (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "HH_AVX:009296002202906" (id 2) (at 0 0 0)
+    (property "Footprint" "h0h4_AVX:009296002202906" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://datasheets.avx.com/PHLPHorizontal_00-9296.pdf" (id 3) (at 0 0 0)
